@@ -18,3 +18,4 @@ require_once '../../blog/include/database.php';
 $OBJ_Layout = NEW layout();
 $OBJ_Contents = NEW contents();
 $OBJ_Forms = NEW forms();
+#the loading file
